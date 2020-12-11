@@ -1,0 +1,39 @@
+/**
+* @name Schwi(Shuvi) Dola Theme
+* @version 1.0
+* @author szopjle#4172 | Justsenpai_
+* @description Schwi Dola (No Game No Life) Theme Based on NotAnotherAnimeTheme
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+
+:root {
+    --friends-icon: url(https://images5.alphacoders.com/906/thumb-1920-906366.jpg);
+    --background-image : url(https://images5.alphacoders.com/905/905175.png);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 280%;
+    --main-color: rgba(65, 179, 245, 0.938);
+    --main-transparency: rgba(26, 2, 21, 0.897);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color:rgba(91, 35, 196, 0.192);
+    --border-lines-color: rgb(170, 15, 15);
+    --scrollbar-colour: rgba(16, 110, 102, 0.397);
+    --scroll-bar-color: rgba(8, 160, 135, 0.644);
+    --selected-text-voice-color: #00eeff;
+    --channel-hover-text-color: rgb(245, 245, 245);
+    --unread-text-color: #f8bf04;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --rs-small-spacing: 2px;
+    --rs-large-spacing: 5px;
+    --rs-width: 1.75px;
+    --rs-avatar-shape: 24.5%;
+    --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+
+}

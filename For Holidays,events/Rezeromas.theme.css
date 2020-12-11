@@ -1,0 +1,40 @@
+/**
+* @name Christmas Theme but its rezero
+* @description Rezero christmas theme Based on NotAnotherAnimeTheme
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+:root {
+    --background-image: url(https://cdn.discordapp.com/attachments/699887792708386867/783246261981151252/0f6d3a6bde25a357bbd6e4dca117c3e8.jpg);
+    --friends-icon: url(https://cdn.discordapp.com/attachments/699887792708386867/783246260471070720/christmas-rem-re-zero-re-zero-kara-hajimeru-isekai-seikatsu-blue-hair-wallpaper-preview.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 150%;
+    --main-color: rgb(233, 43, 122);
+    --main-transparency: rgba(70, 20, 75, 0.644);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(202, 74, 74, 0.212);
+    --border-lines-color: rgba(117, 46, 5, 0.521);
+    --scroll-bar-color: rgba(175, 5, 19, 0.63);
+    --font-size: 16px;
+    --selected-text-voice-color: #c300ff;
+    --channel-hover-text-color: rgb(255, 55, 255);
+    --unread-text-color: #d43636;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgba(190, 25, 61, 0.651);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 42.0%;
+    --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+    --HSL-server-icon-size: 50px;
+    --HSL-server-spacing: 10px;
+}

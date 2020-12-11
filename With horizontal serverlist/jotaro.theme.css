@@ -1,0 +1,40 @@
+/**
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @name Jotaro Kujo theme
+* @description Jotaro Kujo (Jojo) theme Based on NotAnotherAnimeTheme
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+:root{
+    --background-image: url(https://i.imgur.com/s9zMky4.png);
+    --main-color: rgba(124, 84, 161, 0.719);
+    --main-transparency: rgba(0, 0, 0, 0.863);
+    --friends-icon: url(https://i.imgur.com/YRI503F.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(168, 8, 8, 0.425);
+    --border-lines-color: rgba(44, 6, 78, 0.336);
+    --scroll-bar-color: rgb(17, 0, 255);
+    --selected-text-voice-color: #00d9ff;
+    --channel-hover-text-color: rgb(255, 255, 255);
+    --unread-text-color: #ffe600;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgb(4, 0, 255);
+--rs-small-spacing: 1px;
+--rs-large-spacing: 2px;
+--rs-width: 2px;
+--rs-avatar-shape: 39.2%;
+--rs-online-color: #0ef38c;
+--rs-idle-color: #ffa200;
+--rs-dnd-color: #c42626;
+--rs-offline-color: #9a9fa5;
+--rs-streaming-color: #7032da;
+--rs-invisible-color: #d7dadf;
+--HSL-server-icon-size: 30px;
+--HSL-server-spacing: 5px;
+    
+}

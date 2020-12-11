@@ -1,0 +1,39 @@
+/**
+* @name Astolfo (Fate/Apocrypha) Theme
+* @description Astolfo from Fate/Apocrypha Theme Based on NotAnotherAnimeTheme
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+    --background-image: url(https://images3.alphacoders.com/985/thumb-1920-985303.jpg);
+    --friends-icon: url(https://images.alphacoders.com/858/thumb-1920-858958.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 160%;
+    --main-color: rgb(172, 10, 212);
+    --main-transparency: rgba(0, 0, 0, 0.596);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(177, 26, 247, 0.541);
+    --border-lines-color: rgba(132, 0, 255, 0.336);
+    --scroll-bar-color: rgba(255, 60, 0, 0.555);
+    --font:'Garamond';
+    --font-size: 16px;
+    --selected-text-voice-color: #ff3c00;
+    --channel-hover-text-color: rgb(255, 0, 0);
+    --unread-text-color: #ffffff;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgb(167, 21, 142);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #43b581;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #f04747;
+    --rs-offline-color: #636b75;
+    --rs-streaming-color: #643da7;
+    --rs-invisible-color: #747f8d;
+}

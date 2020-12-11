@@ -1,0 +1,40 @@
+/**
+* @name Mari Setogaya Theme
+* @description Theme for Mari Setogaya from the hentai Itadaki Seikei Based on NotAnotherAnimeTheme
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+:root {
+    --background-image: url(https://cdn.discordapp.com/attachments/699887792708386867/775082027598217246/mari_setogaya_s_lost_in_space_by_parody_of_eve_ddguzmb-pre.jpg);
+    --friends-icon: url(https://i.pinimg.com/736x/b3/00/50/b30050ee5bf718c768a3345153d122b7.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(172, 17, 17);
+    --main-transparency: rgba(24, 10, 36, 0.74);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(255, 0, 0, 0.212);
+    --border-lines-color: rgba(117, 46, 5, 0.521);
+    --scroll-bar-color: rgba(175, 5, 19, 0.63);
+    --font-size: 16px;
+    --selected-text-voice-color: #ff3c00;
+    --channel-hover-text-color: rgb(153, 43, 43);
+    --unread-text-color: #ffffff;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgb(230, 69, 6);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 42.0%;
+       --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+    --HSL-server-icon-size: 30px;
+    --HSL-server-spacing: 5px;
+}

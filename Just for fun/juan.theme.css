@@ -1,0 +1,38 @@
+/**
+* @name Juan
+* @version Juan
+* @author Justsenpai_ | szopjle#4172
+* @description Juan Based on NotAnotherAnimeTheme
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+    --friends-icon: url(https://i.redd.it/fwrbet8psi751.jpg);
+    --background-image : url(https://i.kym-cdn.com/entries/icons/original/000/035/644/juancover.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgba(80, 245, 65, 0.938);
+    --main-transparency: rgba(0, 0, 0, 0.76);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color:rgba(9, 255, 103, 0.137);
+    --border-lines-color: rgb(170, 15, 15);
+    --scrollbar-colour: rgba(34, 51, 50, 0.397);
+    --scroll-bar-color: rgba(58, 63, 62, 0.644);
+    --selected-text-voice-color: #ffe600;
+    --channel-hover-text-color: rgb(245, 245, 245);
+    --unread-text-color: #f8bf04;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --rs-small-spacing: 2px;
+    --rs-large-spacing: 5px;
+    --rs-width: 1.75px;
+    --rs-avatar-shape: 24.5%;
+    --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+
+}

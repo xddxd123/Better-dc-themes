@@ -1,0 +1,39 @@
+/**
+* @name Lucy Heartfilia Theme
+* @description Theme for Lucy Heartfilia from the Anime Fairy Tale Based on NotAnotherAnimeTheme
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+    --background-image: url(https://images5.alphacoders.com/760/thumb-1920-760648.jpg);
+    --friends-icon: url(https://images2.alphacoders.com/956/thumb-1920-956061.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 270%;
+    --main-color: rgb(43, 86, 226);
+    --main-transparency: rgba(0, 0, 0, 0.719);
+    --hover-list-bg-color: rgba(21, 76, 196, 0.212);
+    --border-lines-color: rgba(16, 36, 151, 0.521);
+    --scroll-bar-color: rgba(53, 79, 226, 0.548);
+    --font-size: 16px;
+    --selected-text-voice-color: #006eff;
+    --channel-hover-text-color: rgb(17, 46, 177);
+    --unread-text-color: #ffffff;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgb(6, 47, 230);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 42.0%;
+    --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+    --HSL-server-icon-size: 30px;
+    --HSL-server-spacing: 5px;
+}

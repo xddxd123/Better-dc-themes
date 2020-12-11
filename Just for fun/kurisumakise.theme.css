@@ -1,0 +1,28 @@
+/**
+* @name Kurisu Makise PogU
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @description Kurisu Makise Theme very niceu UwU Based on NotAnotherAnimeTheme
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+:root {
+    --background-image: url(https://i.imgur.com/hYLiSBd.jpg);
+    --friends-icon: url(https://i.imgur.com/K9xD5Lc.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgba(158, 90, 214, 0.849);
+    --main-transparency: rgba(14, 2, 20, 0.473);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(59, 58, 58, 0.432);
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --scroll-bar-color: rgba(79, 30, 172, 0.15);
+    --font: 'Garamond';
+    --font-size: 16px;
+    --selected-text-voice-color: #af1111;
+    --channel-hover-text-color: rgba(73, 79, 160, 0.836);
+    --unread-text-color: #e791cb;
+    --user-popup-background: rgba(0, 0, 0, 0.8);
+}
+
+

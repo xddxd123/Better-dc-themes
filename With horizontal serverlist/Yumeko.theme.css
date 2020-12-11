@@ -1,0 +1,47 @@
+/**
+* @name Yumeko Jabami Theme
+* @version 1.0
+* @author szopjle#4172 | Justsenpai_
+* @description Yumeko Jabami (Kakegurui) Theme Based on NotAnotherAnimeTheme
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+:root {
+    --background-image: url(https://images6.alphacoders.com/860/860275.png);
+    --friends-icon: url(https://images5.alphacoders.com/854/854327.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgba(139, 5, 5, 0.849);
+    --main-transparency: rgba(0, 0, 0, 0.651);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color:rgba(91, 35, 196, 0.295);
+    --border-lines-color: rgb(170, 15, 15);
+    --scrollbar-colour: rgb(196, 5, 5);
+    --scroll-bar-color: rgba(61, 8, 160, 0.644);
+    --selected-text-voice-color: #ff0000;
+    --channel-hover-text-color: rgba(221, 137, 172, 0.781);
+    --unread-text-color: #f303a3;
+    --user-popup-background: rgba(139, 8, 8, 0.8);
+    --HSL-server-icon-size: 35px;
+    --serverlist-brightness: 0.8; 
+    --left-brightness: 0.8; 
+    --middle-brightness: 0.6; 
+    --right-brightness: 0; 
+    --popout-modal-brightness: 0.75;
+    --update-notice-1 :none;
+        --rs-small-spacing: 1px;
+--rs-large-spacing: 2px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--HSL-server-icon-size: 30px;
+--HSL-server-spacing: 5px;
+    
+}

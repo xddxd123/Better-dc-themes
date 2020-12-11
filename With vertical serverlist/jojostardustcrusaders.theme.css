@@ -1,0 +1,39 @@
+/**
+* @name Jojo Stardust Crusaders Theme
+* @description Jojo's Bizzare adventure : Stardust Crusaders Theme Based on NotAnotherAnimeTheme
+* @version 1.2
+* @author szopjle#4172 | Justsenpai_
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+    --background-image: url(https://i.imgur.com/uE69dt3.png);
+    --friends-icon: url(https://i.imgur.com/asJxiEV.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(2, 114, 80);
+    --main-transparency: rgba(36, 36, 36, 0.664);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(103, 143, 84, 0.527);
+    --border-lines-color: rgba(0, 0, 255, 0.37);
+    --scroll-bar-color: rgba(65, 21, 187, 0.555);
+    --font:'Garamond';
+    --font-size: 16px;
+    --selected-text-voice-color: #00ff22;
+    --channel-hover-text-color: rgba(0, 0, 0, 0.781);
+    --unread-text-color: #ff0000;
+    --user-popup-background: rgba(218, 30, 30, 0.8);
+    --rs-large-spacing: 2px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+
+    
+}

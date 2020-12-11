@@ -1,0 +1,45 @@
+//META{"name":"Yumeko Jabami Theme V2","description":"Yumeko Jabami (Kakegurui) Theme Based on the Frosted Glass theme","author":"Justsenpai_ | szopjle#4172","version":"2.0","authorId" :"270607409150558208"}*//
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+--background-image: url(https://images.alphacoders.com/100/thumb-1920-1005167.png);
+--friends-icon: url(https://images5.alphacoders.com/854/854327.jpg);
+--background-image-blur: 0px;
+--popout-modal-image: url('var(--background-image)');
+--popout-modal-blur: 10px;
+--serverlist-brightness: 0.3;
+--left-brightness: 0.60;
+--middle-brightness: 0.30;
+--right-brightness: 0.30;
+--popout-modal-brightness: 0.8;
+--font: 'Crimson Pro', sans-serif;
+--tint-colour: 31,12,12;
+--tint-brightness: 0.6;
+--gradient-primary: rgb(31, 12, 12);
+--gradient-secondary: rgb(236, 9, 77);
+--window-padding: 20px;
+--window-roundness: 20px;
+--scrollbar-colour: #c40505;
+--link-colour: #ffffff;
+--update-notice-1: none;
+--friends-icon-position: center center;
+--friends-icon-zoom: 180%;
+--rs-avatar-shape: 50%;
+--selected-text-voice-color: rgb(243, 49, 123);
+--channel-hover-text-color: rgb(168, 12, 12);
+--unread-text-color: #d6abe4;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #634694;
+--rs-invisible-color: #747f8d;
+--HSL-server-icon-size: 30px;
+--HSL-server-spacing: 5px;
+    
+}

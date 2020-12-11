@@ -1,0 +1,40 @@
+/**
+* @name Movingmas theme
+* @description fucking cool moving christmas theme based on NotAnotherAnimeTheme
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+:root {
+    --background-image: url(https://im4.ezgif.com/tmp/ezgif-4-6667e6ae4cdb.gif);
+    --friends-icon: url(https://i.imgur.com/CPFakg7.gif);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 125%;
+    --main-color: rgb(43, 72, 233);
+    --main-transparency: rgba(75, 20, 20, 0.836);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(202, 74, 74, 0.212);
+    --border-lines-color: rgba(117, 46, 5, 0.521);
+    --scroll-bar-color: rgba(175, 5, 19, 0.63);
+    --font-size: 16px;
+    --selected-text-voice-color: #c300ff;
+    --channel-hover-text-color: rgb(255, 55, 255);
+    --unread-text-color: #d43636;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgba(190, 25, 61, 0.651);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 42.0%;
+    --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+    --HSL-server-icon-size: 50px;
+    --HSL-server-spacing: 10px;
+}

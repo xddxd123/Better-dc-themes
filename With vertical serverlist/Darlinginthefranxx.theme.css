@@ -1,0 +1,39 @@
+/**
+* @name Zero Two theme xd
+* @description Zero two (Darling in the franxx) theme Based on NotAnotherAnimeTheme
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+    --background-image: url(https://images4.alphacoders.com/902/thumb-1920-902865.jpg);
+    --friends-icon: url(https://images4.alphacoders.com/899/899207.png);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 250%;
+    --main-color: rgb(99, 99, 99);
+    --main-transparency: rgba(0, 0, 0, 0.699);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(190, 22, 22, 0.356);
+    --border-lines-color: rgb(221, 217, 215);
+    --scroll-bar-color: rgba(1, 59, 167, 0.514);
+    --font-size: 16px;
+    --selected-text-voice-color: #3f86e2;
+    --channel-hover-text-color: #eb223d;
+    --unread-text-color: #48eb8c;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgb(0, 0, 0);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 3px;
+    --rs-avatar-shape: 25%;
+    --rs-online-color: #43b581;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #f04747;
+    --rs-offline-color: #636b75;
+    --rs-streaming-color: #643da7;
+    --rs-invisible-color: #747f8d;
+    --HSL-server-icon-size: 35px;
+}

@@ -1,0 +1,33 @@
+//META{"name":"Neptune UwU","description":"Neptune (Hyperdimension Neptunia) theme Based on the Frosted Glass theme","author":"Justsenpai_ | szopjle#4172","version":"1.0", "authorId": "270607409150558208"}*//
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+
+:root {
+--background-image: url('https://images3.alphacoders.com/893/893562.jpg');
+--background-image-blur: 2px;
+--popout-modal-image: url('var(--background-image)');
+--popout-modal-blur: 10px;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.60;
+--middle-brightness: 0.40;
+--right-brightness: 0.40;
+--popout-modal-brightness: 0.8;
+--font: 'Lato';
+--font-size: 15px;
+--tint-colour:94, 17, 145;
+--tint-brightness: 0.45;
+--gradient-primary: rgb(54,155,231);
+--gradient-secondary: rgb(9,236,16);
+--window-padding: 20px;
+--window-roundness: 20px;
+--scrollbar-colour: #1a58ccad;
+--link-colour: #003df5;
+--update-notice-1: none;
+--selected-text-voice-color: rgb(0, 38, 255);
+--channel-hover-text-color: rgb(21, 230, 184);
+--unread-text-color: #0ddde4;
+--friends-icon: url(https://images7.alphacoders.com/854/thumb-1920-854957.png);
+--friends-icon-position: center center;
+--friends-icon-zoom: 180%;
+}

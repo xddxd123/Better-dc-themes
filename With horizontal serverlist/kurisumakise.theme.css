@@ -1,0 +1,46 @@
+/**
+* @name Kurisu Makise theme
+* @version 1.0
+* @author szopjle#4172 | Justsenpai_
+* @description Kurisu Makise Steins;Gate Theme
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+:root {
+    --background-image: url(https://images6.alphacoders.com/971/971664.jpg);
+    --friends-icon: url(https://i.imgur.com/K9xD5Lc.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgba(223, 26, 0, 0.651);
+    --main-transparency: rgba(0, 7, 15, 0.39);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color:rgba(226, 17, 80, 0.267);
+    --border-lines-color: rgb(204, 46, 19);
+    --scrollbar-colour: rgb(138, 44, 44);
+    --scroll-bar-color: rgba(28, 255, 47, 0.644);
+    --selected-text-voice-color: #862a06;
+    --channel-hover-text-color: rgba(73, 71, 207, 0.781);
+    --unread-text-color: #0bf303;
+    --user-popup-background: rgba(139, 8, 8, 0.8);
+    --HSL-server-icon-size: 35px;
+    --serverlist-brightness: 0.8; 
+    --left-brightness: 0.8; 
+    --middle-brightness: 0.6; 
+    --right-brightness: 0; 
+    --popout-modal-brightness: 0.75;
+    --rs-small-spacing: 1px;
+--rs-large-spacing: 2px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--HSL-server-icon-size: 30px;
+--HSL-server-spacing: 5px;
+    
+}
